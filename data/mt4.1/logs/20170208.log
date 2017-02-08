@@ -1,0 +1,169 @@
+0	03:29:10.289	Migration: data to 'Z:\wine' migration started
+0	03:29:10.289	Migration: experts migration from 'Z:\wine' to 'Z:\wine' started
+0	03:29:10.289	Migration: experts folder updated from 'Z:\wine\experts' to 'Z:\wine\MQL4\Experts'
+0	03:29:10.290	Migration: include folder updated from 'Z:\wine\experts\include' to 'Z:\wine\MQL4\Include'
+0	03:29:10.290	Migration: indicators folder updated from 'Z:\wine\experts\indicators' to 'Z:\wine\MQL4\Indicators'
+0	03:29:10.290	Migration: scripts folder updated from 'Z:\wine\experts\scripts' to 'Z:\wine\MQL4\Scripts'
+0	03:29:10.290	Migration: expert logs folder updated from 'Z:\wine\experts\logs' to 'Z:\wine\MQL4\Logs'
+0	03:29:10.290	Migration: expert files folder updated from 'Z:\wine\experts\files' to 'Z:\wine\MQL4\Files'
+0	03:29:10.290	Migration: libraries folder updated from 'Z:\wine\experts\libraries' to 'Z:\wine\MQL4\Libraries'
+0	03:29:10.290	Migration: expert presets folder updated from 'Z:\wine\experts\presets' to 'Z:\wine\MQL4\Presets'
+0	03:29:10.290	Migration: expert images folder updated from 'Z:\wine\experts\images' to 'Z:\wine\MQL4\Images'
+0	03:29:10.291	Migration: experts migration finished
+0	03:29:10.291	Migration: data migration finished, no virtual folder
+0	03:29:10.292	LiveUpdate: update Z:\wine\MQL4 folder started
+0	03:29:10.295	LiveUpdate: Z:\wine\MQL4/Experts/MACD Sample.mq4 updated
+0	03:29:10.296	LiveUpdate: Z:\wine\MQL4/Experts/Moving Average.mq4 updated
+0	03:29:10.298	LiveUpdate: Z:\wine\MQL4/Include/Arrays/Array.mqh updated
+0	03:29:10.299	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	03:29:10.300	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	03:29:10.301	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	03:29:10.302	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	03:29:10.303	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	03:29:10.304	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	03:29:10.305	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	03:29:10.309	LiveUpdate: Z:\wine\MQL4/Include/Arrays/ArrayString.mqh updated
+0	03:29:10.313	LiveUpdate: Z:\wine\MQL4/Include/Arrays/List.mqh updated
+0	03:29:10.314	LiveUpdate: Z:\wine\MQL4/Include/Arrays/Tree.mqh updated
+0	03:29:10.315	LiveUpdate: Z:\wine\MQL4/Include/Arrays/TreeNode.mqh updated
+0	03:29:10.322	LiveUpdate: Z:\wine\MQL4/Include/Canvas/Canvas.mqh updated
+0	03:29:10.324	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	03:29:10.324	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	03:29:10.325	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	03:29:10.336	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	03:29:10.337	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	03:29:10.338	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	03:29:10.339	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	03:29:10.340	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	03:29:10.341	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	03:29:10.342	LiveUpdate: Z:\wine\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	03:29:10.345	LiveUpdate: Z:\wine\MQL4/Include/Charts/Chart.mqh updated
+0	03:29:10.346	LiveUpdate: Z:\wine\MQL4/Include/Controls/BmpButton.mqh updated
+0	03:29:10.347	LiveUpdate: Z:\wine\MQL4/Include/Controls/Button.mqh updated
+0	03:29:10.348	LiveUpdate: Z:\wine\MQL4/Include/Controls/CheckBox.mqh updated
+0	03:29:10.349	LiveUpdate: Z:\wine\MQL4/Include/Controls/CheckGroup.mqh updated
+0	03:29:10.350	LiveUpdate: Z:\wine\MQL4/Include/Controls/ComboBox.mqh updated
+0	03:29:10.351	LiveUpdate: Z:\wine\MQL4/Include/Controls/DateDropList.mqh updated
+0	03:29:10.351	LiveUpdate: Z:\wine\MQL4/Include/Controls/DatePicker.mqh updated
+0	03:29:10.352	LiveUpdate: Z:\wine\MQL4/Include/Controls/Defines.mqh updated
+0	03:29:10.353	LiveUpdate: Z:\wine\MQL4/Include/Controls/Dialog.mqh updated
+0	03:29:10.354	LiveUpdate: Z:\wine\MQL4/Include/Controls/Edit.mqh updated
+0	03:29:10.355	LiveUpdate: Z:\wine\MQL4/Include/Controls/Label.mqh updated
+0	03:29:10.356	LiveUpdate: Z:\wine\MQL4/Include/Controls/ListView.mqh updated
+0	03:29:10.357	LiveUpdate: Z:\wine\MQL4/Include/Controls/Panel.mqh updated
+0	03:29:10.358	LiveUpdate: Z:\wine\MQL4/Include/Controls/Picture.mqh updated
+0	03:29:10.359	LiveUpdate: Z:\wine\MQL4/Include/Controls/RadioButton.mqh updated
+0	03:29:10.359	LiveUpdate: Z:\wine\MQL4/Include/Controls/RadioGroup.mqh updated
+0	03:29:10.360	LiveUpdate: Z:\wine\MQL4/Include/Controls/Rect.mqh updated
+0	03:29:10.361	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	03:29:10.362	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	03:29:10.363	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Close.bmp updated
+0	03:29:10.364	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	03:29:10.364	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	03:29:10.365	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	03:29:10.366	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	03:29:10.366	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	03:29:10.367	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Down.bmp updated
+0	03:29:10.368	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	03:29:10.369	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	03:29:10.369	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	03:29:10.370	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	03:29:10.371	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DropOff.bmp updated
+0	03:29:10.371	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/DropOn.bmp updated
+0	03:29:10.372	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	03:29:10.373	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	03:29:10.374	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	03:29:10.374	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	03:29:10.375	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	03:29:10.376	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	03:29:10.376	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Left.bmp updated
+0	03:29:10.377	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	03:29:10.378	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	03:29:10.378	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	03:29:10.379	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	03:29:10.380	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Restore.bmp updated
+0	03:29:10.380	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	03:29:10.381	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	03:29:10.382	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	03:29:10.382	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Right.bmp updated
+0	03:29:10.383	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	03:29:10.384	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	03:29:10.384	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	03:29:10.385	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	03:29:10.386	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	03:29:10.387	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	03:29:10.387	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	03:29:10.388	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	03:29:10.389	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Turn.bmp updated
+0	03:29:10.390	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	03:29:10.390	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	03:29:10.391	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/Up.bmp updated
+0	03:29:10.392	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	03:29:10.392	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	03:29:10.393	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	03:29:10.394	LiveUpdate: Z:\wine\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	03:29:10.398	LiveUpdate: Z:\wine\MQL4/Include/Controls/Scrolls.mqh updated
+0	03:29:10.399	LiveUpdate: Z:\wine\MQL4/Include/Controls/SpinEdit.mqh updated
+0	03:29:10.400	LiveUpdate: Z:\wine\MQL4/Include/Controls/TimePicker.mqh updated
+0	03:29:10.401	LiveUpdate: Z:\wine\MQL4/Include/Controls/Wnd.mqh updated
+0	03:29:10.402	LiveUpdate: Z:\wine\MQL4/Include/Controls/WndClient.mqh updated
+0	03:29:10.403	LiveUpdate: Z:\wine\MQL4/Include/Controls/WndContainer.mqh updated
+0	03:29:10.404	LiveUpdate: Z:\wine\MQL4/Include/Controls/WndObj.mqh updated
+0	03:29:10.405	LiveUpdate: Z:\wine\MQL4/Include/Files/File.mqh updated
+0	03:29:10.407	LiveUpdate: Z:\wine\MQL4/Include/Files/FileBin.mqh updated
+0	03:29:10.408	LiveUpdate: Z:\wine\MQL4/Include/Files/FilePipe.mqh updated
+0	03:29:10.408	LiveUpdate: Z:\wine\MQL4/Include/Files/FileTxt.mqh updated
+0	03:29:10.410	LiveUpdate: Z:\wine\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	03:29:10.410	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Custom.mqh updated
+0	03:29:10.411	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Indicator.mqh updated
+0	03:29:10.427	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Indicators.mqh updated
+0	03:29:10.428	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Oscilators.mqh updated
+0	03:29:10.429	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Series.mqh updated
+0	03:29:10.430	LiveUpdate: Z:\wine\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	03:29:10.431	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Trend.mqh updated
+0	03:29:10.432	LiveUpdate: Z:\wine\MQL4/Include/Indicators/Volumes.mqh updated
+0	03:29:10.433	LiveUpdate: Z:\wine\MQL4/Include/MovingAverages.mqh updated
+0	03:29:10.434	LiveUpdate: Z:\wine\MQL4/Include/Object.mqh updated
+0	03:29:10.434	LiveUpdate: Z:\wine\MQL4/Include/stderror.mqh updated
+0	03:29:10.437	LiveUpdate: Z:\wine\MQL4/Include/stdlib.mqh updated
+0	03:29:10.437	LiveUpdate: Z:\wine\MQL4/Include/StdLibErr.mqh updated
+0	03:29:10.439	LiveUpdate: Z:\wine\MQL4/Include/Strings/String.mqh updated
+0	03:29:10.440	LiveUpdate: Z:\wine\MQL4/Include/Tools/DateTime.mqh updated
+0	03:29:10.441	LiveUpdate: Z:\wine\MQL4/Include/WinUser32.mqh updated
+0	03:29:10.442	LiveUpdate: Z:\wine\MQL4/Indicators/Accelerator.mq4 updated
+0	03:29:10.443	LiveUpdate: Z:\wine\MQL4/Indicators/Accumulation.mq4 updated
+0	03:29:10.444	LiveUpdate: Z:\wine\MQL4/Indicators/Alligator.mq4 updated
+0	03:29:10.444	LiveUpdate: Z:\wine\MQL4/Indicators/ATR.mq4 updated
+0	03:29:10.445	LiveUpdate: Z:\wine\MQL4/Indicators/Awesome.mq4 updated
+0	03:29:10.446	LiveUpdate: Z:\wine\MQL4/Indicators/Bands.mq4 updated
+0	03:29:10.447	LiveUpdate: Z:\wine\MQL4/Indicators/Bears.mq4 updated
+0	03:29:10.448	LiveUpdate: Z:\wine\MQL4/Indicators/Bulls.mq4 updated
+0	03:29:10.448	LiveUpdate: Z:\wine\MQL4/Indicators/CCI.mq4 updated
+0	03:29:10.449	LiveUpdate: Z:\wine\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	03:29:10.451	LiveUpdate: Z:\wine\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	03:29:10.452	LiveUpdate: Z:\wine\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	03:29:10.452	LiveUpdate: Z:\wine\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	03:29:10.453	LiveUpdate: Z:\wine\MQL4/Indicators/Ichimoku.mq4 updated
+0	03:29:10.454	LiveUpdate: Z:\wine\MQL4/Indicators/iExposure.mq4 updated
+0	03:29:10.455	LiveUpdate: Z:\wine\MQL4/Indicators/MACD.mq4 updated
+0	03:29:10.456	LiveUpdate: Z:\wine\MQL4/Indicators/Momentum.mq4 updated
+0	03:29:10.456	LiveUpdate: Z:\wine\MQL4/Indicators/OsMA.mq4 updated
+0	03:29:10.457	LiveUpdate: Z:\wine\MQL4/Indicators/Parabolic.mq4 updated
+0	03:29:10.458	LiveUpdate: Z:\wine\MQL4/Indicators/RSI.mq4 updated
+0	03:29:10.458	LiveUpdate: Z:\wine\MQL4/Indicators/Stochastic.mq4 updated
+0	03:29:10.459	LiveUpdate: Z:\wine\MQL4/Indicators/ZigZag.mq4 updated
+0	03:29:10.460	LiveUpdate: Z:\wine\MQL4/Libraries/stdlib.mq4 updated
+0	03:29:10.462	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	03:29:10.463	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	03:29:10.464	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	03:29:10.465	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	03:29:10.467	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	03:29:10.469	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	03:29:10.469	LiveUpdate: Z:\wine\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	03:29:10.470	LiveUpdate: Z:\wine\MQL4/Scripts/PeriodConverter.mq4 updated
+0	03:29:10.471	LiveUpdate: update Z:\wine\MQL4 folder finished
+0	03:29:10.611	XM MT4 build 1010 started (Trading Point Of Financial Instruments Ltd)
+0	03:29:10.613	Microsoft Windows XP (x64 based PC), IE 09.00, 2 x Intel Pentium 4  2.40GHz, RAM: 1695 / 2002 Mb, HDD: 40650 / 46806 Mb, GMT+00:00
+0	03:29:10.613	Data Folder: Z:\wine
+0	03:29:12.023	Sources recompilation started
+0	03:29:34.937	Sources recompilation finished (28 compiled in 22915 msec)
