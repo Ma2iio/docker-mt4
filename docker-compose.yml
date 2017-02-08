@@ -4,13 +4,4 @@ services:
     build: ./mt4
     container_name: mt4.1
     ports:
-      - 5901:5900
-    volumes:
-      - ./data/mt4.1:/wine
-  mt4.2:
-    build: ./mt4
-    container_name: mt4.2
-    ports:
-      - 5902:5900
-    volumes:
-      - ./data/mt4.2:/wine
+      - 15901:5900
