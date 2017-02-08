@@ -5,3 +5,5 @@ services:
     container_name: mt4.1
     ports:
       - 15901:5900
+    volumes:
+       - ./data/mt4.1:/wine
